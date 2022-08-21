@@ -26,7 +26,7 @@ Morphology also looks at **parts of speech, intonation and stress, and the ways 
 Morphology differs from morphological typology, which is the classification of languages based on their use of words, and lexicology, which is the study of words and how they make up a language's vocabulary.
 
 **Morfologia** – dziedzina lingwistyki zajmująca się **formami odmiennymi części mowy (fleksja) oraz słowotwórstwem**.
-W podejściu morfemicznym elementarną jednostką analizy morfologicznej jest abstrakcyjny **morfem**, charakteryzowany zwykle jako **najmniejsza część wyrazu będąca nośnikiem znaczenia**.   
+W podejściu morfemicznym elementarną jednostką analizy morfologicznej jest abstrakcyjny **morfem**, charakteryzowany zwykle jako **najmniejsza część wyrazu będąca nośnikiem znaczenia**.
 Wyraz jest tu rozumiany jako znak prosty, jeśli złożony jest z jednego morfemu, albo znak złożony, jeśli można w nim wyróżnić więcej takich podstawowych jednostek.
 W podejściach opartych o pojęcie morfemu przyjmuje się zwykle, że wszystkie morfemy, zarówno słowotwórcze, jak i fleksyjne, wchodzą w skład inwentarza leksykalnego użytkowników danego języka, zwanego zwykle **leksykonem**.
 
