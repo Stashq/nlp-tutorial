@@ -5,7 +5,7 @@ from transformers import pipeline
 model_name = "deepset/roberta-base-squad2"
 
 QA_input = {
-    'question': 'Who is stupid?',
+    'question': 'Who Daniel does\'nt like?',
     'context': 'Daniel wondering how is it possible to be' +
     'such stupid as lady Elizabeth.'
 }

@@ -18,6 +18,12 @@ In linguistic morphology and information retrieval, stemming is the process of r
 
 In linguistics is the process of grouping together the inflected forms of a word so they can be analysed as a single item, identified by the word's lemma, or dictionary form. Unlike stemming, lemmatisation depends on correctly identifying the intended part of speech and meaning of a word in a sentence, as well as within the larger context surrounding that sentence, such as neighboring sentences or even an entire document (zamiast usuwać końcówki, szukamy podstawowej formy; konieczne rozpoznanie o jakie słowo chodzi; przykładem jej słowo "mam", które może pochodzić od "mama", "mieć" lub "mamić").
 
+### N-gram
+
+An **N-gram** means a sequence of N words. So for example, “Medium blog” is a 2-gram (a bigram), “A Medium blog post” is a 4-gram, and “Write on Medium” is a 3-gram (trigram).
+
+An **N-gram model** learns the distribution of words using probability $ P(word_{i+n}|word_{i+n-1} ... word_{i+1}) $. It can be used in tasks such tokenization. [Link](https://web.stanford.edu/~jurafsky/slp3/3.pdf) to Stanford lecture.
+
 ### Morphological analysis
 
 **Morphology** - **the study of words, how they are formed, and their relationship to other words in the same language**.
